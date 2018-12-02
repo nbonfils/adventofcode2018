@@ -1,5 +1,3 @@
-import os
-
 INPUT_FILE = "input.txt"
 
 with open(INPUT_FILE) as f:
